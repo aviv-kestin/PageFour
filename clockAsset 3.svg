@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3101.31 3101.31">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #33c06b;
+        stroke-miterlimit: 10;
+        stroke-width: 47.52px;
+      }
+
+      .cls-2 {
+        fill: #aac1d8;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <circle class="cls-1" cx="1550.65" cy="1550.65" r="1381.55"/>
+    <circle class="cls-1" cx="1550.65" cy="1550.65" r="1526.89"/>
+    <circle class="cls-2" cx="1564.19" cy="1550.65" r="92.51"/>
+    <line class="cls-1" x1="1550.65" y1="645.49" x2="1550.65" y2="291.57"/>
+    <line class="cls-1" x1="2012.4" y1="754.93" x2="2221.49" y2="469.38"/>
+    <line class="cls-1" x1="2335.69" y1="1069.79" x2="2642.19" y2="892.83"/>
+    <line class="cls-1" x1="2466.85" y1="1550.65" x2="2820.77" y2="1550.65"/>
+    <line class="cls-1" x1="2469.35" y1="1550.65" x2="2823.27" y2="1550.65"/>
+    <line class="cls-1" x1="2359.91" y1="2012.4" x2="2645.46" y2="2221.49"/>
+    <line class="cls-1" x1="2045.05" y1="2335.69" x2="2222.01" y2="2642.19"/>
+    <line class="cls-1" x1="1564.19" y1="2466.85" x2="1564.19" y2="2820.77"/>
+    <line class="cls-1" x1="1107.46" y1="768.5" x2="898.37" y2="482.96"/>
+    <line class="cls-1" x1="784.17" y1="1083.37" x2="477.67" y2="906.41"/>
+    <line class="cls-1" x1="650.51" y1="1564.23" x2="296.59" y2="1564.23"/>
+    <line class="cls-1" x1="759.95" y1="2025.98" x2="474.4" y2="2235.07"/>
+    <line class="cls-1" x1="1074.81" y1="2349.27" x2="897.85" y2="2655.77"/>
+    <line class="cls-1" x1="1564.19" y1="1550.65" x2="1883.7" y2="486.56"/>
+    <line class="cls-1" x1="1885.75" y1="2452.82" x2="1564.19" y2="1550.65"/>
+    <rect class="cls-1" x="1500.34" y="1502.21" width="39.05" height="57.38"/>
+    <rect class="cls-1" x="1572.81" y="1521.96" width="39.05" height="57.38"/>
+    <rect class="cls-1" x="1510.42" y="1550.65" width="39.05" height="57.38"/>
+  </g>
+</svg>
